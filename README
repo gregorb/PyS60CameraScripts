@@ -1,0 +1,14 @@
+PyS60CameraScripts
+==================
+
+httpd_pic.py ..... basic HTTP server that takes picture every time you request takepicture.jpg
+                   example: http://192.168.1.3:50000/takepicture.jpg?flash=forced
+                   
+raw_ftp.py ....... simple script for making time-lapse photos and pushing them to your FTP server
+
+
+
+
+
+--
+Keywords: S60, PyS60, Nokia, Symbian, HTTP, FTP, Time-lapse, Camera, Photo
